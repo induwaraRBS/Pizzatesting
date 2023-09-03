@@ -1,5 +1,5 @@
 # React + Vite
-
+This Web site is For a Pizza Restaurnat Through this web Application cutomers can order thier favuartite foods.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
